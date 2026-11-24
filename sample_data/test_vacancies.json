@@ -1,0 +1,42 @@
+{
+  "results": {
+    "vacancies": [
+      {
+        "id": "39001",
+        "vac_url": "https://trudvsem.ru/vacancy/39001",
+        "job-name": "Специалист по закупкам",
+        "salary_min": 55000,
+        "salary_max": 65000,
+        "schedule": "Гибкий график",
+        "employment": "Полная занятость",
+        "addresses": "г. Калининград, ул. Черняховского, д. 1",
+        "duty": "Подготовка документации, ведение реестра договоров, возможна частичная занятость в пиковые периоды.",
+        "requirements": "Высшее образование, опыт работы от 1 года"
+      },
+      {
+        "id": "39002",
+        "vac_url": "https://trudvsem.ru/vacancy/39002",
+        "job-name": "Методист",
+        "salary_min": null,
+        "salary_max": null,
+        "schedule": "",
+        "employment": "",
+        "addresses": "",
+        "duty": "",
+        "requirements": ""
+      },
+      {
+        "id": "39003",
+        "vac_url": "https://trudvsem.ru/vacancy/39003",
+        "job-name": "Бухгалтер расчётного отдела",
+        "salary_min": 60000,
+        "salary_max": 70000,
+        "schedule": "Пятидневная рабочая неделя, 09:00–18:00",
+        "employment": "Полная занятость",
+        "addresses": "г. Калининград, Московский пр-т, д. 95",
+        "duty": "Начисление заработной платы, подготовка отчётности.",
+        "requirements": "Профильное образование, опыт работы от 2 лет"
+      }
+    ]
+  }
+}

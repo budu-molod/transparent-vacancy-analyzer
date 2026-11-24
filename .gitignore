@@ -1,0 +1,17 @@
+# Секреты и токены 
+.env
+.env.*
+!.env.example
+*.txt
+
+# Виртуальное окружение и кэш Python
+.venv/
+venv/
+pycache/
+*.py[cod]
+
+# Системные и редакторские файлы
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

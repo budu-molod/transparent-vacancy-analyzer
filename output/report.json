@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-11-24T15:55:28.167285+00:00",
+  "mode": "live",
+  "source": "http://opendata.trudvsem.ru/api/v1/vacancies/region/39",
+  "total_vacancies": 20,
+  "vacancies": [
+    {
+      "vacancy_id": "dfdfe7c6-1b0a-11ee-9f4d-9586bb63c653",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023901018570/dfdfe7c6-1b0a-11ee-9f4d-9586bb63c653",
+      "issues": []
+    },
+    {
+      "vacancy_id": "1711d0c8-e284-11f1-8d1a-453232bb56a3",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/1711d0c8-e284-11f1-8d1a-453232bb56a3",
+      "issues": []
+    },
+    {
+      "vacancy_id": "0dc1c4a3-a6b5-11f1-b4b9-312b1e80675a",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/0dc1c4a3-a6b5-11f1-b4b9-312b1e80675a",
+      "issues": [
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "333e4e78-85a7-11f1-be40-f90a836cd168",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/333e4e78-85a7-11f1-be40-f90a836cd168",
+      "issues": []
+    },
+    {
+      "vacancy_id": "ebb27e68-e284-11f1-bbbe-cd6f87e05b83",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/ebb27e68-e284-11f1-bbbe-cd6f87e05b83",
+      "issues": []
+    },
+    {
+      "vacancy_id": "460f1c08-600e-11f1-a885-41d00752341b",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/460f1c08-600e-11f1-a885-41d00752341b",
+      "issues": []
+    },
+    {
+      "vacancy_id": "759c1368-8fed-11f1-b546-0def9408a49f",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902296307/759c1368-8fed-11f1-b546-0def9408a49f",
+      "issues": []
+    },
+    {
+      "vacancy_id": "ada414f8-dda5-11f1-8798-75bc1c1c1094",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1217700536063/ada414f8-dda5-11f1-8798-75bc1c1c1094",
+      "issues": []
+    },
+    {
+      "vacancy_id": "59c75ca5-5351-11f1-bb82-7f8bb357025f",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023901014323/59c75ca5-5351-11f1-bb82-7f8bb357025f",
+      "issues": [
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "f53dc178-6e20-11f1-a0ef-714ad8f097f6",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023901014323/f53dc178-6e20-11f1-a0ef-714ad8f097f6",
+      "issues": [
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "277041e4-599a-11f1-bab0-41ec381737f7",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1027700404797/277041e4-599a-11f1-bab0-41ec381737f7",
+      "issues": [
+        {
+          "issue_type": "неоднозначность",
+          "topic": "график",
+          "field": "schedule",
+          "quote": "Режим гибкого рабочего времени",
+          "problem": "Формулировка «гибкий график» не раскрывает конкретные дни, часы или наличие обязательных смен.",
+          "recommendation": "Уточните у работодателя, есть ли обязательные часы присутствия, нормы часов в неделю и правила согласования смен."
+        },
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "95a9e600-49f9-11f1-b4bd-353d35c994b0",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1023902272272/95a9e600-49f9-11f1-b4bd-353d35c994b0",
+      "issues": [
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "fcf47fd8-85db-11f1-ae5d-9f41f4fa76e3",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/fcf47fd8-85db-11f1-ae5d-9f41f4fa76e3",
+      "issues": []
+    },
+    {
+      "vacancy_id": "27124c78-c3df-11f1-9dff-97d306130813",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/27124c78-c3df-11f1-9dff-97d306130813",
+      "issues": []
+    },
+    {
+      "vacancy_id": "de41cb18-c79e-11f1-9dff-97d306130813",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/de41cb18-c79e-11f1-9dff-97d306130813",
+      "issues": []
+    },
+    {
+      "vacancy_id": "a5949538-550d-11f1-ae4c-b7d71698c4cb",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/a5949538-550d-11f1-ae4c-b7d71698c4cb",
+      "issues": []
+    },
+    {
+      "vacancy_id": "08d6c308-a538-11f1-aa6f-e58ffaa23423",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/08d6c308-a538-11f1-aa6f-e58ffaa23423",
+      "issues": []
+    },
+    {
+      "vacancy_id": "d772fec8-a53a-11f1-aa6f-e58ffaa23423",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/d772fec8-a53a-11f1-aa6f-e58ffaa23423",
+      "issues": [
+        {
+          "issue_type": "пропуск",
+          "topic": "тип занятости",
+          "field": "employment",
+          "quote": "",
+          "problem": "Не указан тип занятости.",
+          "recommendation": "Уточните у работодателя тип занятости (полная, частичная, проектная работа и т.д.)."
+        }
+      ]
+    },
+    {
+      "vacancy_id": "98fbb208-85db-11f1-ae5d-9f41f4fa76e3",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/98fbb208-85db-11f1-ae5d-9f41f4fa76e3",
+      "issues": []
+    },
+    {
+      "vacancy_id": "25c7f648-b114-11f1-b99e-4972ddb33ebb",
+      "vacancy_url": "https://trudvsem.ru/vacancy/card/1083905000959/25c7f648-b114-11f1-b99e-4972ddb33ebb",
+      "issues": []
+    }
+  ]
+}

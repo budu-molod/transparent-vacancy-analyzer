@@ -26,10 +26,7 @@ def check_proxy_alive(base_url: str, api_key: str, timeout: float = 5.0) -> bool
     except Exception as e:
         print(f"[ERROR] Прокси недоступен: {type(e).__name__}: {e}")
         print(f"        base_url = {base_url}")
-        print("        Проверьте:")
-        print("          1. Запущен ли gpt2giga в отдельном окне")
-        print("          2. Совпадает ли PROXY_URL в .env с адресом прокси")
-        print("          3. Совпадает ли GPT2GIGA_API_KEY с настройкой прокси")
+        
         return False
 
 
@@ -135,12 +132,9 @@ def resolve_llm_settings() -> tuple[str, str, str]:
 def main() -> None:
     args = parse_args()
     base_url, api_key, model = resolve_llm_settings()
-
+    # Убрать если лишние
     print("=" * 60)
     print(f"Режим:     {args.mode}")
-    print(f"Прокси:    {base_url}")
-    print(f"Модель:    {model}")
-    print(f"Ключ:      {'*' * 8 if api_key else 'НЕ ЗАДАН'}")
     print("=" * 60)
 
     if not api_key:

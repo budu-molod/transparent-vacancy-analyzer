@@ -7,7 +7,7 @@ load_dotenv(Path(__file__).resolve().parent / ".env")
 
 
 API_URL = os.getenv("API_URL", "http://opendata.trudvsem.ru/api/v1/vacancies/region/39")
-MAX_VACANCIES = int(os.getenv("MAX_VACANCIES", "20"))
+MAX_VACANCIES = int(os.getenv("MAX_VACANCIES", "5"))
 PAGE_LIMIT = int(os.getenv("PAGE_LIMIT", "10"))
 SCHEDULE_INTERVAL_MINUTES = int(os.getenv("SCHEDULE_INTERVAL_MINUTES", "60"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "output/report.json")
